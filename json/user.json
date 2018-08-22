@@ -1,0 +1,12 @@
+{
+    "data":[
+    
+        {
+            "id":"0",
+            "src":"src/assets/images/touxiang01.jpg",
+            "name":"euphoria",
+            "password":"123456",
+            "mail":"1043231196@qq.com"
+        }
+    ]
+}
